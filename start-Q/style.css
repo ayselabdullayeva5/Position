@@ -75,6 +75,7 @@ a:hover {
 }
 @media screen and (max-width: 800px) {
   #demo3 .minibox .btn {
+    border-radius: 20%;
     background-color: rgb(150, 18, 122);
   }
   #demo3 .minibox .btn h3 {
